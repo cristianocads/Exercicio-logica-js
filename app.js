@@ -46,3 +46,12 @@ if (nota >= 7) {
     alert("Reprovado");
     console.log("Reprovado");
 }
+
+let aleatorio = Math.random();
+console.log(aleatorio);
+
+let aleatorioDez = parseInt(Math.random() * 10) + 1;
+console.log(aleatorioDez);
+
+let aleatorioMil = parseInt(Math.random() * 1000) + 1;
+console.log(aleatorioMil);
